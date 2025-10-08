@@ -43,4 +43,4 @@ Experiência do Usuário: Inclui feedback visual de carregamento e mensagens cla
 # 🚀 Acesse o Projeto Online
 👉 Clique aqui para acessar o Global Match Point
 
-([Acesse o Calendário Global de Feriados.]([https://site-calendario-hne7.onrender.com](https://siteweb-calendario-wjgp.onrender.com)))
+([Acesse o Calendário Global de Feriados.]((https://siteweb-calendario-wjgp.onrender.com)))
