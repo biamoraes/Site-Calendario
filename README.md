@@ -41,6 +41,4 @@ Nomes Alternativos: Exibe o nome do feriado no idioma local e, se for diferente,
 Experiência do Usuário: Inclui feedback visual de carregamento e mensagens claras de erro.
 
 # 🚀 Acesse o Projeto Online
-👉 Clique aqui para acessar o Global Match Point
-
-([Acesse o Calendário Global de Feriados.]((https://siteweb-calendario-wjgp.onrender.com)))
+👉 Clique aqui para acessar o Global Match Point: https://siteweb-calendario-wjgp.onrender.com
